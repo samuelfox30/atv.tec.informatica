@@ -1,0 +1,1 @@
+{'Nome': 'Marcos', 'Idade': '16', 'Curso': 'Tec.Informmátic'}

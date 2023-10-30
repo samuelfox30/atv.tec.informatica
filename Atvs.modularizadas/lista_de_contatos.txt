@@ -1,0 +1,5 @@
+{'Nome': 'Samuel', 'Telefone': '27992297504'}
+{'Nome': 'Hubner', 'Telefone': '27997002951'}
+{'Nome': 'jo', 'Telefone': '27999966647'}
+{'Nome': 'sergio', 'Telefone': '27995166094'}
+{'Nome': 'fulano', 'Telefone': '27996248972'}
