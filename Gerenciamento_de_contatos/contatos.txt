@@ -1,0 +1,5 @@
+{'Nome': 'Minato', 'Endereco': 'Jose Cocciuffo', 'Telefone': '11982693578'}
+{'Nome': 'Alexandre', 'Endereco': 'Capital São Paulo', 'Telefone': '99999999999'}
+{'Nome': 'Hubner', 'Endereco': 'Jardim Camburi', 'Telefone': '2787437429'}
+{'Nome': 'Samuel', 'Endereco': 'Serra, ES', 'Telefone': '27992297504'}
+{'Nome': 'Bia', 'Endereco': 'Laranjeiras', 'Telefone': '279999283'}
